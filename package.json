@@ -1,0 +1,24 @@
+{
+  "name": "honeycomb",
+  "version": "0.1.0",
+  "description": "My own game engine!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBeeBoi/Honeycomb.git"
+  },
+  "keywords": [
+    "Game",
+    "engine",
+    "Web"
+  ],
+  "author": "TheBeeBoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBeeBoi/Honeycomb/issues"
+  },
+  "homepage": "https://github.com/TheBeeBoi/Honeycomb#readme"
+}
